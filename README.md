@@ -7,6 +7,8 @@ This project presents a comprehensive sales analysis using the AdventureWorks da
 🔹 Key Insights & Features:
 
 ✅ Sales Overview: Total revenue, cost, profit, and product count summary.
+</br>
+
 ✅ Product Performance: Profitability by category, subcategory, and model.
 ✅ Customer Demographics: Distribution by country, age, gender, marital status, and education.
 ✅ Sales Trends: Yearly sales and profit trends visualized.
